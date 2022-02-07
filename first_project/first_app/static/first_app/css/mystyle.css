@@ -5,3 +5,8 @@ body {
 h1 {
     color: red;
 }
+
+table, th, td {
+    border: 2px solid black;
+    padding: 2px 2px 2px 2px;
+}
