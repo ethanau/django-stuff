@@ -21,3 +21,5 @@
 - python manage.py createsuperuser
 - python manage.py migrate
 - python manage.py makemigrations my_app
+
+## [third project](second_project)<br>
