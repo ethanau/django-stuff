@@ -23,3 +23,6 @@
 - python manage.py makemigrations my_app
 
 ## [third project](second_project)<br>
+- create forms.py
+- connect form and model
+- add user sign up function in second project
