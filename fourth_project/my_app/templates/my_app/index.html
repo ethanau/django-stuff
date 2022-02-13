@@ -1,10 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
+{% extends "my_app/base.html" %}
+  {% block body_block %}
+  <h1>Welcome to the home page.</h1>
+  <h1>{{ text|upper }}</h1>
+  <h1>{{ text|cut:'hello' }}</h1>
+  <h1>{{ number|add:'99' }}</h1>
+  {% endblock %}
