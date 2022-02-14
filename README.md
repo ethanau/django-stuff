@@ -28,3 +28,7 @@
 - add user sign up function in second project
 
 ## [fourth project](second_project)<br>
+- relative URLs with templates
+- URL template inheritance
+- template filter
+- custom filter
