@@ -18,17 +18,21 @@
 - create urls.py in my_app
 - set urls.py in second_project
 - register models in admin.py
-- python manage.py createsuperuser
 - python manage.py migrate
 - python manage.py makemigrations my_app
+- python manage.py createsuperuser
 
-## [third project](second_project)<br>
+## [third project](third_project)<br>
 - create forms.py
 - connect form and model
 - add user sign up function in second project
 
-## [fourth project](second_project)<br>
+## [fourth project](fourth_project)<br>
 - relative URLs with templates
 - URL template inheritance
 - template filter
 - custom filter
+
+## [fifth project](fifth_project)<br>
+- static folder(website side files)
+- media folder(user side files, like user profile)
