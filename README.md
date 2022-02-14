@@ -36,3 +36,6 @@
 ## [fifth project](fifth_project)<br>
 - static folder(website side files)
 - media folder(user side files, like user profile)
+- User model
+- connect models and forms
+- registration and login functionality
