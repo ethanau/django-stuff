@@ -39,3 +39,8 @@
 - User model
 - connect models and forms
 - registration and login functionality
+
+## [CBVs project](cbv_project)<br>
+- template views with CBV
+- list view
+- detail view
